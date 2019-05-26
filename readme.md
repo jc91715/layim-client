@@ -1,9 +1,11 @@
 ## 客户端源码
 [服务端源码](https://github.com/jc91715/layim-server)
 
+
 ## 使用方法
 
-使用之前请到 [LayIm官网获取授权](http://layim.layui.com/)
+远吗没有包含layim.js
+使用之前先到到 [LayIm官网获取授权](http://layim.layui.com/)
 把 dist/lay/modules/layim.js 放至项目根目录public/layim/dist/lay/modules/ 下即可
 ### 1 clone项目 源代码
 
@@ -43,7 +45,7 @@ yourdomain.com
 
 ![加群交流](./public/c5039a7fdea6ef7f9b3d921e2d5e552.jpg)
 
-开源不易，请喝个咖啡
+如果对你有帮助，请喝个咖啡
 
 微信赞赏
 
