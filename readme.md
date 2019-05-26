@@ -4,9 +4,9 @@
 
 ## 使用方法
 
-远吗没有包含layim.js
+源码没有包含layim.js，
 使用之前先到到 [LayIm官网获取授权](http://layim.layui.com/)
-把 dist/lay/modules/layim.js 放至项目根目录public/layim/dist/lay/modules/ 下即可
+，把 dist/lay/modules/layim.js 放至项目根目录public/layim/dist/lay/modules/ 下即可
 ### 1 clone项目 源代码
 
 ```
