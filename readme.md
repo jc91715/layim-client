@@ -41,6 +41,11 @@ php artisan migrate
 
 yourdomain.com
 
+
+### 5 其他
+
+另外我还写了 [colorui-im](https://jc91715.top/im),已开源在 [gitee](https://gitee.com/colorui-im/)
+
 ## 加群交流
 
 ![加群交流](./public/c5039a7fdea6ef7f9b3d921e2d5e552.jpg)
